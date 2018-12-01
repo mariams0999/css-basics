@@ -21,7 +21,7 @@ hr {
 }
 
 h1 {
-    font-size: 72 px;
+    font-size: 72px;
 }
 
 h1, h2 {
@@ -67,7 +67,8 @@ a:active {
     color: blue;
 }
 
-.opac {
-    opacity: 0.5;
+.practice img{
+    width: 50%;
 }
+
 
